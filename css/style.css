@@ -21,19 +21,10 @@ a {
 	color: white;
 }
 
-div {
-	border-radius: 50px;
-}
-
 form {
 	border: 1px black;
 	text-align: center;
 }
-
-input {
-	border-radius: 20px;
-}
-
 .carousel-caption {
 	font: italic 1em "Fira Sans", serif;
 	border-radius: 100%;
